@@ -1,2 +1,6 @@
 touch t1.txt t2.txt a1.c
+<<<<<<< HEAD
 changing gitignore in local
+=======
+changing text gitignore in hub
+>>>>>>> cbb32b93c9feffa4b63eddd7f2a7c9fccfe252bf
